@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'iaymq5$wpzm&7$j&v4@4#92y#_23&9*u*&tsq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [os.environ.get('HEROKU_HOSTNANE')]
+ALLOWED_HOSTS = [os.environ.get('HEROKU_HOSTNAME')]
 
 
 # Application definition
