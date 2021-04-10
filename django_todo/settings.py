@@ -26,7 +26,7 @@ SECRET_KEY = 'iaymq5$wpzm&7$j&v4@4#92y#_23&9*u*&tsq!*_p)-xw24&t_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nexton-django-todo-app.herokuapp.com']
 
 
 # Application definition
